@@ -53,16 +53,6 @@ TOOLS {
 
 TOOLS {
     NUM=6
-    TYPE=PLATED
-    MIN_TOL=0
-    MAX_TOL=0
-    BIT=
-    FINISH_SIZE=118
-    DRILL_SIZE=118
-}
-
-TOOLS {
-    NUM=7
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0
@@ -72,7 +62,7 @@ TOOLS {
 }
 
 TOOLS {
-    NUM=8
+    NUM=7
     TYPE=NON_PLATED
     MIN_TOL=0
     MAX_TOL=0

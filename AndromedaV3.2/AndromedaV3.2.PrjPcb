@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for AndromedaV3.2
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -103,10 +103,175 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=QTFIMCLM
+
+[Document5]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AndromedaV3.2\Design Rule Check - MCBV3.html
+DocumentPath=Bill of Materials-AndromedaV3.2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Fabrication Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Fabrication Files\NC Drill\MCBV3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Fabrication Files\Gerber\MCBV3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Fabrication Files\NC Drill\MCBV3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Fabrication Files\Gerber\MCBV3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Fabrication Files\ODB\MCBV3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Fabrication Files\Gerber\MCBV3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Fabrication Files\NC Drill\MCBV3.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -118,6 +283,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for AndromedaV3.2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -228,7 +396,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C364SeriesPCL
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -720,36 +888,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
