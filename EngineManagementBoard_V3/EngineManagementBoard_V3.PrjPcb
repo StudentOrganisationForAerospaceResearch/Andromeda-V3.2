@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HBVUGEQS
 
 [Document5]
 DocumentPath=..\..\..\SOAR-Library\SOARSchematics.SchLib
@@ -120,10 +120,158 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QTFIMCLM
 
 [GeneratedDocument1]
 DocumentPath=Bill of Materials-EngineManagementBoard_V3.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Fabrication Files\NC Drill\EMBV3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Fabrication Files\Gerber\EMBV3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Fabrication Files\Gerber\EMBV3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Fabrication Files\NC Drill\EMBV3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Fabrication Files\Gerber\EMBV3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Fabrication Files\ODB\EMBV3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Fabrication Files\Gerber\EMBV3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Fabrication Files\NC Drill\EMBV3.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Fabrication Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1144,16 +1292,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=SOARSchematics.SchLib
-ComponentDesignItemID0=FID_1MM_ROUND_SL
-ComponentSymbolReference0=FID_1MM_ROUND_SL
+ComponentDesignItemID0=36-4853-ND
+ComponentSymbolReference0=36-4853-ND
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=SOARSchematics.SchLib
-ComponentDesignItemID1=Mounting Hole
-ComponentSymbolReference1=Mounting Hole
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1167,22 +1309,49 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Between Board Height
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=ComponentLink1Description
 ParameterUpdate3=1
+ParameterName4=ComponentLink1URL
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=Diameter - Inside
+ParameterUpdate6=1
+ParameterName7=Diameter - Outside
+ParameterUpdate7=1
+ParameterName8=Gender
+ParameterUpdate8=1
+ParameterName9=Length - Overall
+ParameterUpdate9=1
+ParameterName10=Library Reference
+ParameterUpdate10=1
+ParameterName11=Manufacturer
+ParameterUpdate11=1
+ParameterName12=Manufacturer Part Number
+ParameterUpdate12=1
+ParameterName13=Material
+ParameterUpdate13=1
+ParameterName14=Screw, Thread Size
+ParameterUpdate14=1
+ParameterName15=Supplier 1
+ParameterUpdate15=1
+ParameterName16=Supplier Part Number 1
+ParameterUpdate16=1
+ParameterName17=Threaded/Unthreaded
+ParameterUpdate17=1
+ParameterName18=Type
+ParameterUpdate18=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=FID_1MM_ROUND_SL
+ModelName0=Standoff
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=MOUNT-HOLE
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
