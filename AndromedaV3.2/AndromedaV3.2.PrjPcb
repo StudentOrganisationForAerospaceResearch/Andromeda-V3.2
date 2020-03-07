@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for AndromedaV3.2
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -175,102 +175,110 @@ DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Fabrication Files\ODB\odb\matrix\matrix
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Fabrication Files\NC Drill\MCBV3.DRR
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Fabrication Files\Gerber\MCBV3.EXTREP
+DocumentPath=Fabrication Files\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBL
+DocumentPath=Fabrication Files\NC Drill\MCBV3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBO
+DocumentPath=Fabrication Files\Gerber\MCBV3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBS
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GM1
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTL
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTO
+DocumentPath=Fabrication Files\Gerber\MCBV3.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTS
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Fabrication Files\NC Drill\MCBV3.LDP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Fabrication Files\Gerber\MCBV3.REP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Fabrication Files\ODB\MCBV3.REP
+DocumentPath=Fabrication Files\NC Drill\MCBV3.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Fabrication Files\Gerber\MCBV3.RUL
+DocumentPath=Fabrication Files\Gerber\MCBV3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Fabrication Files\NC Drill\MCBV3.TXT
+DocumentPath=Fabrication Files\ODB\MCBV3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Fabrication Files\Gerber\MCBV3.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\profile
+DocumentPath=Fabrication Files\NC Drill\MCBV3.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\stephdr
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument38]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
 DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -285,7 +293,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for AndromedaV3.2
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -396,7 +404,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=KONICA MINOLTA C364SeriesPCL
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -888,6 +896,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
