@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HBVUGEQS
 
 [Document4]
 DocumentPath=..\..\..\SOAR-Library\SOARSchematics.SchLib
@@ -139,146 +139,158 @@ DocumentPath=Fabrication Files\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\board_outline\features
+DocumentPath=Project Outputs for AndromedaV3.2\Design Rule Check - MCBV3.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\board_outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\layer_1\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\layer_2\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Fabrication Files\ODB\odb\matrix\matrix
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Fabrication Files\NC Drill\MCBV3.DRR
+DocumentPath=Fabrication Files\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Fabrication Files\Gerber\MCBV3.EXTREP
+DocumentPath=Fabrication Files\NC Drill\MCBV3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBL
+DocumentPath=Fabrication Files\Gerber\MCBV3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBO
+DocumentPath=Fabrication Files\Gerber\MCBV3.G1
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBP
+DocumentPath=Fabrication Files\Gerber\MCBV3.G2
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GBS
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GM1
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTL
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTO
+DocumentPath=Fabrication Files\Gerber\MCBV3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Fabrication Files\Gerber\MCBV3.GTS
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Fabrication Files\NC Drill\MCBV3.LDP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Fabrication Files\Gerber\MCBV3.REP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Fabrication Files\ODB\MCBV3.REP
+DocumentPath=Fabrication Files\Gerber\MCBV3.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Fabrication Files\Gerber\MCBV3.RUL
+DocumentPath=Fabrication Files\NC Drill\MCBV3.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Fabrication Files\NC Drill\MCBV3.TXT
+DocumentPath=Fabrication Files\Gerber\MCBV3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Fabrication Files\ODB\MCBV3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\profile
+DocumentPath=Fabrication Files\Gerber\MCBV3.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Fabrication Files\ODB\odb\steps\pcb\stephdr
+DocumentPath=Fabrication Files\NC Drill\MCBV3.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument40]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Fabrication Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
 DocumentPath=Fabrication Files\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -298,7 +310,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -404,7 +416,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C364SeriesPCL
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -484,7 +496,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -506,7 +518,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -578,7 +590,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -615,7 +627,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -795,7 +807,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -839,7 +851,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -896,41 +908,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=HP6B2A02 (HP DeskJet 2600 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
