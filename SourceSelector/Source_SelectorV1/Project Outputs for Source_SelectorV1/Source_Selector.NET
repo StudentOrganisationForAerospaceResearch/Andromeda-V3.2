@@ -1,0 +1,110 @@
+PARTS LIST
+
+04025A101JAT2A    0603[1608]      C1
+04025A101JAT2A    0603[1608]      C2
+LTST-C191KGKT     LTST-C191KGKT   D1
+LTST-C191KGKT     LTST-C191KGKT   D2
+LTST-C191KGKT     LTST-C191KGKT   D3
+LTST-C191KGKT     LTST-C191KGKT   D4
+LTST-C191KGKT     LTST-C191KGKT   D5
+LTST-C191KGKT     LTST-C191KGKT   D6
+MCT06030D5112BP5000603[1608]      R1
+MCT06030D5112BP5000603[1608]      R2
+RT0603BRD075K11L  0603[1608]      R3
+RNCF0603BTC20K0   0603[1608]      R4
+RMCF0603FT665K    0603[1608]      R5
+RT0603BRD075K11L  0603[1608]      R6
+MCT06030D5112BP5000603[1608]      R7
+MCT06030D5112BP5000603[1608]      R8
+RT0603BRD075K11L  0603[1608]      R9
+RMCF0603FT357K    0603[1608]      R10
+RT0603BRE0721KL   0603[1608]      R11
+RT0603BRD075K11L  0603[1608]      R12
+RT0603BRD075K11L  0603[1608]      R13
+RNCF0603BTC20K0   0603[1608]      R14
+RMCF0603FT665K    0603[1608]      R15
+RT0603BRD075K11L  0603[1608]      R16
+MCT06030D5112BP5000603[1608]      R17
+MCT06030D5112BP5000603[1608]      R18
+RT0603BRD075K11L  0603[1608]      R19
+MCT06030D5112BP5000603[1608]      R20
+MCT06030D5112BP5000603[1608]      R21
+RT0603BRE0721KL   0603[1608]      R22
+RMCF0603FT357K    0603[1608]      R23
+RT0603BRD075K11L  0603[1608]      R24
+RT0603BRE0718KL   0603[1608]      R25
+RT0603BRD075K11L  0603[1608]      R26
+RT0603BRE0718KL   0603[1608]      R27
+RT0603BRD075K11L  0603[1608]      R28
+MCT06030C1301FP5000603[1608]      R50
+MCT06030C1301FP5000603[1608]      R51
+ERA-3AEB2491V     0603[1608]      R52
+ERA-3AEB2491V     0603[1608]      R53
+ERA-3AEB2491V     0603[1608]      R54
+ERA-3AEB2491V     0603[1608]      R55
+Y101132C203NQ     Y101132C203NQ   SW1
+Y101132C203NQ     Y101132C203NQ   SW2
+TPS2121RUXR       IC_TPS2121RUXR  U1
+TPS2121RUXR       IC_TPS2121RUXR  U2
+EOS
+NET LIST
+
+NODENAME GND              $
+    C1         1  C2         1  D1         1  D2         1  D3         1  D4         1  D5         1  D6         1  R3         1  R6         1  R9         1  R12        1  R13        1  R16        1  R19        1  R24        1  R26        1  R28        1  U1         9  U1        12  U2         9  U2        12
+NODENAME NetC1-2          $
+    C1         2  U1        11
+NODENAME NetC2-2          $
+    C2         2  U2        11
+NODENAME NetD1-2          $
+    D1         2  R52        1
+NODENAME NetD2-2          $
+    D2         2  R51        1
+NODENAME NetD3-2          $
+    D3         2  R50        1
+NODENAME NetD4-2          $
+    D4         2  R53        1
+NODENAME NetD5-2          $
+    D5         2  R54        1
+NODENAME NetD6-2          $
+    D6         2  R55        1
+NODENAME NetR1-1          $
+    R1         1  R2         1  R3         2  U1         5
+NODENAME NetR1-2          $
+    R1         2  R2         2  R4         2  R5         2  R55        2  U1         7
+NODENAME NetR4-1          $
+    R4         1  R5         1  R6         2  U1         6
+NODENAME NetR7-1          $
+    R7         1  R8         1  R9         2  U1         4
+NODENAME NetR7-2          $
+    R7         2  R8         2  R10        2  R11        2  R54        2  U1         2
+NODENAME NetR10-1         $
+    R10        1  R11        1  R12        2  U1         3
+NODENAME NetR13-2         $
+    R13        2  R20        1  R21        1  U2         5
+NODENAME NetR14-1         $
+    R14        1  R15        1  R16        2  U2         6
+NODENAME NetR14-2         $
+    R14        2  R15        2  R20        2  R21        2  U1         1  U2         7
+NODENAME NetR17-1         $
+    R17        1  R18        1  R19        2  U2         4
+NODENAME NetR17-2         $
+    R17        2  R18        2  R22        2  R23        2  R53        2  U2         2
+NODENAME NetR22-1         $
+    R22        1  R23        1  R24        2  U2         3
+NODENAME NetR25-1         $
+    R25        1  R26        2
+NODENAME NetR25-2         $
+    R25        2  U2        10
+NODENAME NetR27-1         $
+    R27        1  R28        2
+NODENAME NetR27-2         $
+    R27        2  U1        10
+NODENAME NetR50-2         $
+    R50        2  SW2        1
+NODENAME NetR51-2         $
+    R51        2  SW2        3
+NODENAME NetR52-2         $
+    R52        2  SW1        1  U2         1
+NODENAME NetSW1-3         $
+    SW1        3
+EOS

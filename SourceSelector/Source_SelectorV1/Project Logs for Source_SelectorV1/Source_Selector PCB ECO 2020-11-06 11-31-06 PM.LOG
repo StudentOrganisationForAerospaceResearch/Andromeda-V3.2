@@ -1,0 +1,88 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D6
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=D6 NewDesignator=D2
+Change Component Designator: OldDesignator=R29 NewDesignator=R55
+Change Component Designator: OldDesignator=R30 NewDesignator=R54
+Change Component Designator: OldDesignator=R31 NewDesignator=R52
+Change Component Designator: OldDesignator=R32 NewDesignator=R53
+Change Component Designator: OldDesignator=R33 NewDesignator=R50
+Change Component Designator: OldDesignator=R34 NewDesignator=R51
+Added Component: Designator=J1(632121300001)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/632121300001/Wurth%20Electronics%20Inc./view-part/1118308/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "632121300001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/632121300001/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/632121300001/Wurth%20Electronics%20Inc./view-part/1118308/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(632121300001)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/632121300001/Wurth%20Electronics%20Inc./view-part/1118308/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "632121300001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/632121300001/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/632121300001/Wurth%20Electronics%20Inc./view-part/1118308/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(0009483125)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, General Purpose, Medical, Telecommunications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/009483125_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "15.0µin (0.38µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Post"; Value = "100.0µin (2.54µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.145" (3.68mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Female Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Locking Ramp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Board Hooks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.308" (7.82mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0009483125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Board Edge, Through Hole, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 80°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.156" (3.96mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board or Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=GroundPower New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetSW1_3
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR51_2
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-S1
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-S2
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-S3
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-S4
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-13
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-S1
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-S2
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-S3
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-S4
+Added Net: Name=NetJ2_12
+Added Class: Name=Source_Selector
+Added Room: Name=Source_Selector
