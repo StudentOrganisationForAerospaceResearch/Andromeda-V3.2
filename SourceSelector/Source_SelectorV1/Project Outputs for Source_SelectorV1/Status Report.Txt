@@ -1,10 +1,10 @@
 Output: Cadnetix Netlist
 Type  : CadnetixNetlist
 From  : Project [Source_SelectorV1.PrjPcb]
-   Generated File[Source_Selector.NET]
+   Generated File[Source_SelectorV1.NET]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:04:08 PM On 2020-11-06
+Finished Output Generation At 12:11:32 PM On 2020-11-15
