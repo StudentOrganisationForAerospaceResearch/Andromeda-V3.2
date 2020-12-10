@@ -1,0 +1,412 @@
+*************************************************************
+FileName = Source_Selector.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder
+      File : Source_Selector.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D42
+    D43
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Source_Selector.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : Source_Selector.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Source_Selector.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Source_Selector.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Source_Selector.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Source_Selector.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Source_Selector.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D19
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Source_Selector.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D19
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : Source_Selector.G2
+
+    Adding Layer      : Power
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D30
+    D31
+    D34
+    D37
+    D38
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : Source_Selector.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Source_Selector.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D30
+    D31
+    D35
+    D37
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : Source_Selector.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Source_Selector.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D19
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : Source_Selector.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Source_Selector.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Source_Selector.GM5
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : Source_Selector.GM2
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+    D11
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Source_Selector.GM3
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D11
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Source_Selector.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Source_Selector.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Source_Selector.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Source_Selector.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Source_Selector.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D41
+    D42
+    D43
+*************************************************************
+

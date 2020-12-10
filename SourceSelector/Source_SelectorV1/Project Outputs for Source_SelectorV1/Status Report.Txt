@@ -1,10 +1,36 @@
-Output: Cadnetix Netlist
-Type  : CadnetixNetlist
-From  : Project [Source_SelectorV1.PrjPcb]
-   Generated File[Source_SelectorV1.NET]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Source_SelectorV1.PrjPcb]
+   Generated File[Source_Selector.GTO]
+   Generated File[Source_Selector.GTP]
+   Generated File[Source_Selector.GTS]
+   Generated File[Source_Selector.GTL]
+   Generated File[Source_Selector.G1]
+   Generated File[Source_Selector.G2]
+   Generated File[Source_Selector.GBL]
+   Generated File[Source_Selector.GBS]
+   Generated File[Source_Selector.GBP]
+   Generated File[Source_Selector.GBO]
+   Generated File[Source_Selector.GM1]
+   Generated File[Source_Selector.GM2]
+   Generated File[Source_Selector.GM3]
+   Generated File[Source_Selector.GM5]
+   Generated File[Source_Selector.GM13]
+   Generated File[Source_Selector.GM14]
+   Generated File[Source_Selector.GM15]
+   Generated File[Source_Selector.GKO]
+   Generated File[Source_Selector.GPT]
+   Generated File[Source_Selector.GPB]
+   Generated File[Source_Selector.3]
+   Generated File[Source_Selector.2]
+   Generated File[Source_Selector.GML]
+   Generated File[Source_Selector.1]
+   Generated File[Source_Selector.RUL]
+   Generated File[Source_Selector.EXTREP]
+   Generated File[Source_Selector.REP]
 
 
-Files Generated   : 1
+Files Generated   : 27
 Documents Printed : 0
 
-Finished Output Generation At 12:11:32 PM On 2020-11-15
+Finished Output Generation At 10:21:36 PM On 2020-12-09
