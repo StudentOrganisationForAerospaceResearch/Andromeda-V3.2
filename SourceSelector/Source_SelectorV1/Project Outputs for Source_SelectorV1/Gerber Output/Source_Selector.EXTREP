@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Source_Selector.GBR   2020-12-10  9:35:26 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 GND                                     
+.G2                 Power                                   
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Bottom Component Outline                
+.GM3                Top Component Outline                   
+.GM4                Board                                   
+.GM5                Top 3D Body                             
+.GM13               Mechanical 13                           
+.GM14               Bottom 3D Body                          
+.GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.2                  Dielectric 2                            
+.GML                Multi-Layer                             
+.3                  Dielectric 3                            
+.1                  Dielectric 1                            
+------------------------------------------------------------------------------------------
