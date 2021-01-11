@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Vout Pin=SW1-3
+Removed Pin From Net: NetName=NetR29_2 Pin=SW1-8
+Removed Pin From Net: NetName=Stratologger Power Pin=SW2-3
+Removed Pin From Net: NetName=NetR31_2 Pin=SW2-8
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC3225X280N"; UniqueID = "\AEISCXUC" ("\AEISCXUC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100µF "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=EMK325ABJ107MM-P%20&u=M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK325ABJ107MM-P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.126"" L x 0.098"" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "587-5426-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.110"" (2.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR29_2 Pin=SW1-3
+Added Pin To Net: NetName=Vout Pin=SW1-8
+Added Pin To Net: NetName=NetR31_2 Pin=SW2-3
+Added Pin To Net: NetName=Stratologger Power Pin=SW2-8
+Added Member To Class: ClassName=Source_Selector Member=Component J1 0484060003
+Added Member To Class: ClassName=Source_Selector Member=Component J4 0430450400
+Added Member To Class: ClassName=Source_Selector Member=Component J5 0430450400
+Added Member To Class: ClassName=Source_Selector Member=Component R29 CPF0603B510KE1
+Added Member To Class: ClassName=Source_Selector Member=Component R30 RT0603BRD0724KL
+Added Member To Class: ClassName=Source_Selector Member=Component R31 CPF0603B510KE1
